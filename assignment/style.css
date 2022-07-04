@@ -1,0 +1,15 @@
+body{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-image: url('record.png');
+margin: 0;
+}
+
+.week-header{
+    background-color: black;
+    color: beige;
+    text-align: center;
+}
+main{
+    background-color: gray;
+    padding: 1em;
+}
